@@ -13,7 +13,7 @@ export const NAV_LINKS = [
     url: '#rentals',
     },
     {
-    copy: 'Travel',
+    copy: 'Travels',
     url: '#travel',
     }
   ];
